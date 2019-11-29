@@ -16,9 +16,7 @@
 		57CD37742390843600C96A10 /* aboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CD37732390843600C96A10 /* aboutViewController.swift */; };
 		57CD37762390875500C96A10 /* Author.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CD37752390875500C96A10 /* Author.swift */; };
 		57CD37782390882B00C96A10 /* me3.png in Resources */ = {isa = PBXBuildFile; fileRef = 57CD37772390882A00C96A10 /* me3.png */; };
-		57CD377A23908DE900C96A10 /* flag.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57CD377923908DE900C96A10 /* flag.jpg */; };
-		57CD377C2391213D00C96A10 /* johnson.png in Resources */ = {isa = PBXBuildFile; fileRef = 57CD377B2391213D00C96A10 /* johnson.png */; };
-		57CD377E2391244100C96A10 /* smalljohnson.png in Resources */ = {isa = PBXBuildFile; fileRef = 57CD377D2391244100C96A10 /* smalljohnson.png */; };
+		57CD378823912AB700C96A10 /* johnsonxs5.png in Resources */ = {isa = PBXBuildFile; fileRef = 57CD378723912AB700C96A10 /* johnsonxs5.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,9 +31,7 @@
 		57CD37732390843600C96A10 /* aboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aboutViewController.swift; sourceTree = "<group>"; };
 		57CD37752390875500C96A10 /* Author.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Author.swift; sourceTree = "<group>"; };
 		57CD37772390882A00C96A10 /* me3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = me3.png; path = ../../Pics/me3.png; sourceTree = "<group>"; };
-		57CD377923908DE900C96A10 /* flag.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = flag.jpg; path = ../../flag.jpg; sourceTree = "<group>"; };
-		57CD377B2391213D00C96A10 /* johnson.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = johnson.png; path = ../../johnson.png; sourceTree = "<group>"; };
-		57CD377D2391244100C96A10 /* smalljohnson.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smalljohnson.png; path = ../../smalljohnson.png; sourceTree = "<group>"; };
+		57CD378723912AB700C96A10 /* johnsonxs5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = johnsonxs5.png; path = ../../johnsonxs5.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,12 +71,10 @@
 				57CD37732390843600C96A10 /* aboutViewController.swift */,
 				57CD37752390875500C96A10 /* Author.swift */,
 				57C904BB238FD25800474093 /* Assets.xcassets */,
-				57CD377B2391213D00C96A10 /* johnson.png */,
-				57CD377D2391244100C96A10 /* smalljohnson.png */,
 				57CD37772390882A00C96A10 /* me3.png */,
-				57CD377923908DE900C96A10 /* flag.jpg */,
 				57C904BD238FD25800474093 /* LaunchScreen.storyboard */,
 				57C904C0238FD25800474093 /* Info.plist */,
+				57CD378723912AB700C96A10 /* johnsonxs5.png */,
 			);
 			path = rayGame;
 			sourceTree = "<group>";
@@ -143,13 +137,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57CD378823912AB700C96A10 /* johnsonxs5.png in Resources */,
 				57C904BF238FD25800474093 /* LaunchScreen.storyboard in Resources */,
-				57CD377A23908DE900C96A10 /* flag.jpg in Resources */,
 				57C904BC238FD25800474093 /* Assets.xcassets in Resources */,
 				57C904BA238FD25600474093 /* Main.storyboard in Resources */,
-				57CD377E2391244100C96A10 /* smalljohnson.png in Resources */,
 				57CD37782390882B00C96A10 /* me3.png in Resources */,
-				57CD377C2391213D00C96A10 /* johnson.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

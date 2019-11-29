@@ -94,10 +94,10 @@ class ViewController: UIViewController {
           currentValue = Int(slider.value)
           startNewRound()
         
-        let thumbImageNormal = #imageLiteral(resourceName: "johnson.png")
+        let thumbImageNormal = #imageLiteral(resourceName: "johnsonxs5.png")
         slider.setThumbImage(thumbImageNormal, for: .normal)
         
-        let thumbImageHighlighted = #imageLiteral(resourceName: "johnson")
+        let thumbImageHighlighted = #imageLiteral(resourceName: "johnsonxs5.png")
         slider.setThumbImage(thumbImageHighlighted, for: .highlighted)
         
        
